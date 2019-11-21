@@ -1,2 +1,2 @@
-# info2180-lab7
-code for lab 7
+# INFO2180 Lab 7
+Using PHP and SQL

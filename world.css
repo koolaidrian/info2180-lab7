@@ -1,0 +1,42 @@
+/* Add your own styles */
+body{
+  margin: 0;
+  background-color: #e6e6ff;
+}
+
+header{
+  background-color: #000033;
+  text-align: center;
+  vertical-align: middle;
+}
+
+h1{
+  display: inline-block;
+  color: #f2f2f2;
+
+}
+#globe{
+  width: 170px;
+  height: 150px;
+  border-radius: 70%;
+}
+
+button{
+  display: inline-block;
+  background-color: #b30000;
+  color: white;
+  border-radius: 10%;
+  padding: 8px;
+  height: 40px;
+  /* width: 80px; */
+}
+
+table{
+  border-collapse: separate;
+  border-spacing: 15px;
+}
+
+td{
+  text-align:center;
+
+}
